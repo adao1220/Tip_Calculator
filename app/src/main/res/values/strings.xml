@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator - Alexander Dao</string>
+    <string name="Title">Tip Calculator</string>
+    <string name="Tip_Percent">Select a tip percentage:</string>
+    <string name="Enter_Amount">Enter your checked amount:</string>
+    <string name="Calc_btn">Calculate</string>
+    <string name="tip1">10%</string>
+    <string name="tip2">20%</string>
+    <string name="tip3">30%</string>
+
+</resources>
